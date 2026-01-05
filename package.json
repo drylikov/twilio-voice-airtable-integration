@@ -1,0 +1,21 @@
+
+{
+  "name": "twilio-voice-airtable-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon . localhost 3000"
+  },
+  "dependencies": {
+    "airtable": "^0.12.2",
+    "axios": "^1.6.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "openai": "^4.17.4",
+    "twilio": "^4.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

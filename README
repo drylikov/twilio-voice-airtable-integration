@@ -1,0 +1,79 @@
+## Dependencies
+
+* Node.js v16+ installed on your machine.
+* A preferred IDE such as VS Code.
+* An active Twilio account (sign up for a free account if you don't have one).
+* The ngrok CLI for testing purposes.
+* (Optional) An OpenAI account for the "Spicing it up" section.
+* An Airtable account.
+* A Twilio phone number with phone call support.
+
+## Running it locally
+
+```bash
+npm install
+npm run dev
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
